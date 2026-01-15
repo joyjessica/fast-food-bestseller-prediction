@@ -1,5 +1,8 @@
 # Would You Like Fries with That? Predicting Bestselling Food Items at Major Fast Food Restaurants 
 
+## Course: 
+DSAN 5300
+
 ## Group Members
 Member-1: Ian Alvarado \
 Member-2: Akshay Arun \
